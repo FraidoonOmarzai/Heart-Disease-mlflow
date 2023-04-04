@@ -1,0 +1,10 @@
+dvc
+dvc[gdrive]
+scikit-learn
+pandas
+numpy
+pytest
+tox
+flask
+gunicorn
+mlflow
